@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bean121.intellijplatformplugintemplatetest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bean121.intellijplatformplugintemplatetest.MyBundle
 
 class MyApplicationService {
 
